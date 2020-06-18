@@ -1,5 +1,7 @@
 package jp.ac.hcs.S3A142;
 
+
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;

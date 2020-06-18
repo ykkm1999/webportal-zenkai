@@ -1,5 +1,7 @@
 package jp.ac.hcs.S3A142;
 
+
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
